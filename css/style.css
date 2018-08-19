@@ -54,7 +54,7 @@ ul{
 .about,.about-skills,.gallery,.about-education,.w3layoutsbooking{padding:3em 0;}
 /*-- header styling starts here --*/
 .agileits_main{
-	background:url(../images/b1.jpg);
+	background:url(../images/sl1.jpg);
     background-repeat:no-repeat;
 	background-position:center;
 	background-size:cover;
@@ -191,8 +191,8 @@ ul{
 	font-size:20px;
 	margin: 0.5em;
 	letter-spacing: 2px;
-	text-transform: capitalize;
-	font-weight: 300;
+	/*text-transform: capitalize;*/
+	font-weight: bold;
 }
 .w3-button a{
 	color: #ff7674;
@@ -1014,7 +1014,7 @@ color:white;
 /*-- Booking --*/
 
 .w3layoutsbooking {
-	background-image:url(../images/ba.jpg);
+	background-image:url(../images/sl3.jpg);
      background-repeat:no-repeat;
 	 background-position:center;
 	 background-size:cover;
