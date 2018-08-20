@@ -1458,6 +1458,10 @@ a.wthree-more {
 	    width: 20%;
 	 height: 35%;
 }
+.footer-grids {
+	padding-left: 5px;
+	padding-right: 5px;
+}
 }
 @media screen and (max-width: 667px){
 	.agile-logo {
