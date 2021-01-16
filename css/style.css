@@ -1117,7 +1117,7 @@ background:#1E90FF;
 	color: #fff;
 	font-size: 56px;
 	text-align:center;
-	margin-bottom: 40px;
+	margin-bottom: 130px;
 }
 
 .footer-grids {
@@ -1128,6 +1128,11 @@ background:#1E90FF;
 	text-align: left;
 	margin-bottom: 20px;
 }
+
+.footer p {
+	font-weight: bold;
+}
+
 .phone{flex:1; -webkit-box-flex:1;}
 .address {flex:1; -webkit-box-flex:1;
 }
