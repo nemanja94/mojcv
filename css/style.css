@@ -1010,6 +1010,10 @@ color:white;
     vertical-align: middle;
     margin-left: 5px;
 }
+.experience-right > p > a {
+	font-weight: bolder;
+	color: #3b5998;
+}
 /*-- //experience --*/
 /*-- Booking --*/
 
